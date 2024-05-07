@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FIXED_ASSET_CONTROL_API.props" />
+</Project>

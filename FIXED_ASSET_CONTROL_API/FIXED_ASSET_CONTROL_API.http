@@ -1,0 +1,6 @@
+@FIXED_ASSET_CONTROL_API_HostAddress = http://localhost:5296
+
+GET {{FIXED_ASSET_CONTROL_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
